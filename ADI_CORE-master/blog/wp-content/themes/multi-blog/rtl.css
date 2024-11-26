@@ -1,0 +1,58 @@
+/*
+Theme Name: Multi Blog
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+https://codex.wordpress.org/Right-to-Left_Language_Support
+*/
+.theme-loading {
+    left: 0;
+    position: absolute;
+}
+
+.right-sidebar .content-area #site-content {
+    padding-left: 10%;
+    padding-right: 0;
+}
+
+.left-sidebar .content-area #site-content {
+    padding-right: 10%;
+    padding-left: 0;
+}
+
+.right-sidebar .widget-area-wrapper {
+    border-left: none;
+    border-right: 1px solid;
+}
+
+.right-sidebar .widget-area-wrapper .widget {
+    padding-left: 0;
+    padding-right: 40px;
+}
+
+.left-sidebar .widget-area-wrapper {
+    border-right: none;
+    border-left: 1px solid;
+}
+
+.left-sidebar .widget-area-wrapper .widget {
+    padding-left: 40px;
+    padding-right: 0;
+}
+
+.theme-main-carousel .swiper-button-prev svg,
+.theme-main-carousel .swiper-button-next svg,
+.theme-btn-link svg {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+@media (min-width: 992px) {
+    .right-sidebar .widget-area-wrapper .widget-title,
+    .right-sidebar .widget-area-wrapper .widget_block .wp-block-group > .wp-block-group__inner-container > h2 {
+        margin-left: 0;
+        padding-left: 0;
+        margin-right: -4rem;
+        padding-right: 4rem;
+    }
+}

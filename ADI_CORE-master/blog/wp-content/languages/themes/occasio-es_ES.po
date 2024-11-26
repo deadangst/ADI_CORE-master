@@ -1,0 +1,605 @@
+# Translation of Themes - Occasio in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Occasio package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-07 12:15:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Occasio\n"
+
+#. Description of the theme
+msgid "Occasio is a sleek and modern Blogging & Magazine WordPress Theme, carefully designed for writers using the Gutenberg Block Editor. The theme supports several blog layouts, extensive post settings and various page templates. It is also AMP-ready and accessible. Start your blog now!"
+msgstr "Occasio es un tema de WordPress para blogs y revistas elegante y moderno, cuidadosamente diseñado para escritores que utilizan el editor de bloques Gutenberg. El tema es compatible con varios diseños de blog, configuraciones de entradas extensas y varias plantillas de página. También está preparado para AMP y es accesible. ¡Comienza tu blog ahora!"
+
+#: inc/gutenberg.php:120
+msgid "Widget Title"
+msgstr "Título del widget"
+
+#: searchform.php:21
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: searchform.php:13 searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: Comment Count
+#: comments.php:36
+msgid "%s comments"
+msgstr "%s comentarios"
+
+#: comments.php:33
+msgid "One comment"
+msgstr "Un comentario"
+
+#: inc/customizer/default-options.php:61
+msgid "Continue reading"
+msgstr "Sigue leyendo"
+
+#: inc/customizer/customizer.php:42
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customizer/controls/plugin-control.php:33
+msgid "Install Plugin"
+msgstr "Instalar plugin"
+
+#: inc/customizer/controls/links-control.php:46
+msgid "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=occasio/"
+msgstr "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=occasio/"
+
+#: inc/customizer/sections/theme-info-settings.php:49
+msgid "Install our free Magazine Blocks to create a magazine-styled homepage in the Editor with just a few clicks."
+msgstr "Instala nuestros bloques de Magazine para crear una página de inicio con estilo de revista en el editor con sólo unos pocos clics"
+
+#: inc/customizer/sections/theme-info-settings.php:48
+msgid "Magazine Blocks"
+msgstr "Bloques de Magazine"
+
+#: inc/customizer/sections/layout-settings.php:63
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/customizer/sections/layout-settings.php:62
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/customizer/sections/layout-settings.php:56
+msgid "Sidebar Position"
+msgstr "Posición de la barra lateral"
+
+#: inc/customizer/sections/layout-settings.php:43
+msgid "Wide Layout"
+msgstr "Diseño ancho completo"
+
+#: inc/customizer/sections/layout-settings.php:42
+msgid "Centered Layout"
+msgstr "Diseño centrado"
+
+#: inc/customizer/sections/layout-settings.php:36
+msgid "Theme Layout"
+msgstr "Diseño del tema"
+
+#: inc/customizer/sections/layout-settings.php:19
+msgid "Layout Settings"
+msgstr "Ajustes del diseño"
+
+#: inc/customizer/sections/post-settings.php:264
+msgid "Display previous/next post navigation"
+msgstr "Mostrar la navegación de entradas anterior/siguiente"
+
+#: inc/customizer/sections/post-settings.php:248
+msgid "Display tags"
+msgstr "Mostrar etiquetas"
+
+#: inc/customizer/sections/post-settings.php:232
+msgid "Single Post"
+msgstr "Entrada individual"
+
+#: inc/customizer/sections/post-settings.php:158
+msgid "Post Details on single posts"
+msgstr "Detalles de la entrada en entradas individuales"
+
+#: inc/customizer/sections/post-settings.php:148
+#: inc/customizer/sections/post-settings.php:222
+msgid "Display comments"
+msgstr "Mostrar comentarios"
+
+#: inc/customizer/sections/post-settings.php:132
+#: inc/customizer/sections/post-settings.php:206
+msgid "Display categories"
+msgstr "Mostrar categorías"
+
+#: inc/customizer/sections/post-settings.php:116
+#: inc/customizer/sections/post-settings.php:190
+msgid "Display author"
+msgstr "Mostrar autor"
+
+#: inc/customizer/sections/post-settings.php:100
+#: inc/customizer/sections/post-settings.php:174
+msgid "Display date"
+msgstr "Mostrar fecha"
+
+#: inc/customizer/sections/post-settings.php:84
+msgid "Post Details on blog and archives"
+msgstr "Detalles de la entrada en el blog y en los archivos"
+
+#: inc/customizer/sections/post-settings.php:68
+msgid "Display images on single posts"
+msgstr "Mostrar imágenes en entradas individuales"
+
+#: inc/customizer/sections/post-settings.php:46
+msgid "Display images on blog and archives"
+msgstr "Mostrar las imágenes en el blog o en los archivos"
+
+#: inc/customizer/sections/post-settings.php:30
+msgid "Featured Images"
+msgstr "Imágenes destacadas"
+
+#: inc/customizer/sections/post-settings.php:19
+msgid "Post Settings"
+msgstr "Ajustes de la entrada"
+
+#: inc/customizer/sections/blog-settings.php:140
+msgid "Number of Posts"
+msgstr "Número de entradas"
+
+#: inc/customizer/sections/blog-settings.php:124
+msgid "Read More Link"
+msgstr "Enlace de Leer más"
+
+#: inc/customizer/sections/blog-settings.php:94
+msgid "Excerpt More Text"
+msgstr "Texto «más» del extracto"
+
+#: inc/customizer/sections/blog-settings.php:78
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: inc/customizer/sections/blog-settings.php:65
+msgid "Post excerpt"
+msgstr "Extracto de la entrada"
+
+#: inc/customizer/sections/blog-settings.php:64
+msgid "Full post"
+msgstr "Entrada completa"
+
+#: inc/customizer/sections/blog-settings.php:58
+msgid "Blog Content"
+msgstr "Contenido del blog"
+
+#: inc/customizer/sections/blog-settings.php:45
+msgid "Three Column Grid"
+msgstr "Cuadrícula de tres columnas"
+
+#: inc/customizer/sections/blog-settings.php:44
+msgid "Two Column Grid"
+msgstr "Cuadrícula de dos columnas"
+
+#: inc/customizer/sections/blog-settings.php:43
+msgid "Vertical List"
+msgstr "Lista vertical"
+
+#: inc/customizer/sections/blog-settings.php:42
+msgid "Horizontal List"
+msgstr "Lista horizontal"
+
+#: inc/customizer/sections/blog-settings.php:36
+msgid "Blog Layout"
+msgstr "Diseño del blog"
+
+#: inc/customizer/sections/blog-settings.php:19
+msgid "Blog Settings"
+msgstr "Ajustes del blog"
+
+#: inc/customizer/sections/website-settings.php:82
+msgid "Display Tagline"
+msgstr "Mostrar la descripción corta del sitio"
+
+#: inc/customizer/sections/website-settings.php:66
+msgid "Display Site Title"
+msgstr "Mostrar el título del sitio"
+
+#: inc/customizer/sections/website-settings.php:50
+msgid "Scale down logo image for retina displays"
+msgstr "Escalar la imagen del logo para pantallas retina"
+
+#: inc/customizer/sections/website-settings.php:34
+msgid "Retina Logo"
+msgstr "Logo para Retina"
+
+#: inc/customizer/sections/footer-settings.php:59
+msgid "Display credit link on footer line"
+msgstr "Mostras en enlace de créditos en la línea del pie"
+
+#: inc/customizer/sections/footer-settings.php:36
+msgid "Footer Text"
+msgstr "Texto del pie"
+
+#: inc/customizer/sections/footer-settings.php:19
+msgid "Footer Settings"
+msgstr "Ajustes del pie de página"
+
+#: inc/back-compat.php:42 inc/back-compat.php:52 inc/back-compat.php:65
+msgid "%1$s requires at least WordPress version %2$s. You are running version %3$s. Please upgrade and try again."
+msgstr "%1$s necesita al menos la versión %2$s de WordPress. Tú estás utilizando la versión %3$s. Por favor actualiza e inténtalo de nuevo."
+
+#: inc/gutenberg.php:108
+msgctxt "block font size"
+msgid "Huge"
+msgstr "Enorme"
+
+#: inc/gutenberg.php:103
+msgctxt "block font size"
+msgid "Extra Large"
+msgstr "Extra grande"
+
+#: inc/gutenberg.php:98
+msgctxt "block font size"
+msgid "Large"
+msgstr "Grande"
+
+#: inc/gutenberg.php:93
+msgctxt "block font size"
+msgid "Medium"
+msgstr "Mediano"
+
+#: inc/gutenberg.php:88
+msgctxt "block font size"
+msgid "Small"
+msgstr "Pequeño"
+
+#: inc/gutenberg.php:79
+msgctxt "block color"
+msgid "Black"
+msgstr "Negro"
+
+#: inc/gutenberg.php:74
+msgctxt "block color"
+msgid "Dark Gray"
+msgstr "Gris Oscuro"
+
+#: inc/gutenberg.php:69
+msgctxt "block color"
+msgid "Gray"
+msgstr "Gris"
+
+#: inc/gutenberg.php:64
+msgctxt "block color"
+msgid "Light Gray"
+msgstr "Gris claro"
+
+#: inc/gutenberg.php:59
+msgctxt "block color"
+msgid "White"
+msgstr "Blanco"
+
+#: inc/gutenberg.php:54
+msgctxt "block color"
+msgid "Highlight"
+msgstr "Destacar"
+
+#: inc/gutenberg.php:49
+msgctxt "block color"
+msgid "Accent"
+msgstr "Énfasis"
+
+#: inc/gutenberg.php:44
+msgctxt "block color"
+msgid "Tertiary"
+msgstr "Terciario"
+
+#: inc/gutenberg.php:39
+msgctxt "block color"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: inc/gutenberg.php:34
+msgctxt "block color"
+msgid "Primary"
+msgstr "Primario"
+
+#. translators: Theme Name and Link to ThemeZee.
+#: inc/template-tags.php:398
+msgid "WordPress Theme: %1$s by %2$s."
+msgstr "Tema de WordPress: %1$s de %2$s."
+
+#: inc/template-tags.php:362
+msgctxt "pagination"
+msgid "Next Posts"
+msgstr "Siguientes entradas"
+
+#: inc/template-tags.php:361
+msgctxt "pagination"
+msgid "Previous Posts"
+msgstr "Entradas anteriores"
+
+#: inc/template-tags.php:345
+msgctxt "post navigation"
+msgid "Next Post"
+msgstr "Siguiente entrada"
+
+#: inc/template-tags.php:344
+msgctxt "post navigation"
+msgid "Previous Post"
+msgstr "Entrada anterior"
+
+#: inc/template-tags.php:305
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: inc/template-tags.php:287
+msgid "% comments"
+msgstr "% comentarios"
+
+#: inc/template-tags.php:286
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: inc/template-tags.php:285
+msgid "No comments"
+msgstr "No hay comentarios"
+
+#. translators: post author link.
+#: inc/template-tags.php:242
+msgid "View all posts by %s"
+msgstr "Ver todas las entradas de %s"
+
+#. translators: Search Results title.
+#: inc/template-tags.php:120
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: inc/theme-info.php:155
+msgctxt "If you like this theme, rate it"
+msgid "rate it"
+msgstr "valóralo"
+
+#: inc/theme-info.php:152
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr "%2$s te ofrece con orgullo %1$s. Si te gusta este tema, %3$s :)"
+
+#: inc/theme-info.php:135
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: inc/theme-info.php:131
+msgid "Extend the functionality of your WordPress website with our free and easy to use plugins."
+msgstr "Amplía la funcionalidad de tu sitio web de WordPress con nuestros plugins gratuitos y fáciles de usar."
+
+#: inc/theme-info.php:128
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#: inc/customizer/controls/upgrade-control.php:33 inc/theme-info.php:118
+msgid "Learn more about %s Pro"
+msgstr "Aprende más sobre %s Pro"
+
+#: inc/customizer/controls/upgrade-control.php:32 inc/theme-info.php:117
+msgid "https://themezee.com/addons/occasio-pro/"
+msgstr "https://themezee.com/addons/occasio-pro/"
+
+#: inc/customizer/controls/upgrade-control.php:28 inc/theme-info.php:114
+msgid "Purchase the %s Pro Add-on to get additional features and advanced customization options."
+msgstr "Compra el complemento Pro %s para obtener características adicionales y opciones de personalización avanzadas."
+
+#: inc/customizer/controls/upgrade-control.php:25 inc/theme-info.php:111
+msgid "Pro Version Add-on"
+msgstr "Complemento de la versión Pro"
+
+#: inc/theme-info.php:104
+msgid "Get more features"
+msgstr "Obtén más características"
+
+#: inc/theme-info.php:84
+msgid "Customize Theme"
+msgstr "Personalizar tema"
+
+#: inc/theme-info.php:81
+msgid "%s makes use of the Customizer for all theme settings. Click on \"Customize Theme\" to open the Customizer now."
+msgstr "%s hace uso del personalizador para todos los ajustes del tema. Haz clic en \"Personalizar tema\" para abrir el personalizador ahora."
+
+#: inc/customizer/customizer.php:37 inc/theme-info.php:78
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/theme-info.php:72
+msgid "View %s's documentation"
+msgstr "Ver la documentación de %s"
+
+#: inc/theme-info.php:68
+msgid "Need help to set up and configure this theme? We got you covered! Check out the extensive theme documentation on our website."
+msgstr "¿Necesitas ayuda para instalar y configurar este tema? ¡Te ayudamos! Echa un ojo a la extensa documentación del tema en nuestro sitio web."
+
+#: inc/theme-info.php:58
+msgid "Getting started with %s"
+msgstr "Empieza con %s"
+
+#: inc/customizer/controls/links-control.php:53 inc/theme-info.php:51
+#: inc/theme-info.php:155
+msgid "Rate this theme"
+msgstr "Valora este tema"
+
+#: inc/customizer/controls/links-control.php:52 inc/theme-info.php:51
+#: inc/theme-info.php:155
+msgid "https://wordpress.org/support/theme/occasio/reviews/"
+msgstr "https://wordpress.org/support/theme/occasio/reviews/"
+
+#: inc/customizer/controls/links-control.php:47 inc/theme-info.php:50
+msgid "Theme Changelog"
+msgstr "Registro de cambios del tema"
+
+#: inc/theme-info.php:50
+msgid "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=occasio"
+msgstr "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=occasio"
+
+#: inc/customizer/controls/links-control.php:41 inc/theme-info.php:49
+#: inc/theme-info.php:65
+msgid "Theme Documentation"
+msgstr "Documentación del tema"
+
+#: inc/customizer/controls/links-control.php:40 inc/theme-info.php:49
+#: inc/theme-info.php:71
+msgid "https://themezee.com/docs/occasio-documentation/"
+msgstr "https://themezee.com/docs/occasio-documentation/"
+
+#: inc/customizer/controls/links-control.php:35 inc/theme-info.php:48
+msgid "Theme Demo"
+msgstr "Demo del tema"
+
+#: inc/customizer/controls/links-control.php:29 inc/theme-info.php:47
+msgid "Theme Page"
+msgstr "Página del tema"
+
+#: inc/customizer/controls/links-control.php:25 inc/theme-info.php:46
+msgid "Theme Links"
+msgstr "Enlaces del tema"
+
+#: inc/customizer/sections/theme-info-settings.php:19 inc/theme-info.php:20
+msgid "Theme Info"
+msgstr "Información del tema"
+
+#: inc/theme-info.php:19 inc/theme-info.php:40
+msgid "Welcome to %1$s %2$s"
+msgstr "Bienvenido a %1$s %2$s"
+
+#: template-parts/header/site-navigation.php:22
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "Menú"
+
+#: template-parts/page/content-none.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: template-parts/page/content-none.php:29
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincide con tus términos de búsqueda. Por favor, prueba de nuevo con algunas palabras diferentes."
+
+#: template-parts/page/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/page/content-none.php:16
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#. Template Name of the theme
+msgid "Full-width Layout"
+msgstr "Diseño a ancho completo"
+
+#. Template Name of the theme
+msgid "Sidebar Left"
+msgstr "Barra lateral izquierda"
+
+#. Template Name of the theme
+msgid "Sidebar Right"
+msgstr "Barra lateral derecha"
+
+#. Template Name of the theme
+msgid "Sidebar Left / No Title"
+msgstr "Barra lateral izquierda / Sin título"
+
+#. Template Name of the theme
+msgid "Sidebar Right / No Title"
+msgstr "Barra lateral derecha / Sin título"
+
+#. Template Name of the theme
+msgid "Full-width / No Title"
+msgstr "Ancho completo / Sin título"
+
+#. Template Name of the theme
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#. Template Name of the theme
+msgid "No Page Title"
+msgstr "Sin título de página"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search or one of the links below?"
+msgstr "Parece que no se ha encontrado nada en este lugar. ¿Qué tal si pruebas con otra búsqueda o uno de los siguientes enlaces?"
+
+#: 404.php:17
+msgid "404: Page not found"
+msgstr "404: Página no encontrada"
+
+#: functions.php:209
+msgid "Occasio List Post"
+msgstr "Lista de entradas de Occasio"
+
+#: functions.php:208
+msgid "Occasio Single Post"
+msgstr "Entrada individual de Occasio"
+
+#: functions.php:193
+msgctxt "widget area description"
+msgid "Appears in the bottom footer line."
+msgstr "Se muestra en la parte inferior de la línea del pie de página."
+
+#: functions.php:191
+msgid "Footer Copyright"
+msgstr "Copyright en el pie"
+
+#: functions.php:182
+msgctxt "widget area description"
+msgid "Appears on blog pages and single posts."
+msgstr "Aparece en las páginas de blog y entradas individuales."
+
+#: functions.php:180
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:118 inc/addons.php:138 inc/addons.php:139
+msgid "Collapse child menu"
+msgstr "Plegar menú inferior"
+
+#: functions.php:117 inc/addons.php:138 inc/addons.php:139
+msgid "Expand child menu"
+msgstr "Expande el menú inferior"
+
+#: functions.php:46
+msgid "Main Navigation"
+msgstr "Navegación principal"
+
+#. Theme Name of the theme
+#. translators: Theme Name and Link to ThemeZee.
+#: inc/template-tags.php:399
+msgid "Occasio"
+msgstr "Occasio"
+
+#. Author URI of the theme
+#: inc/theme-info.php:154
+msgid "https://themezee.com/"
+msgstr "https://themezee.com/"
+
+#. Author of the theme
+msgid "ThemeZee"
+msgstr "ThemeZee"
+
+#. Theme URI of the theme
+#: inc/customizer/controls/links-control.php:28 inc/theme-info.php:47
+msgid "https://themezee.com/themes/occasio/"
+msgstr "https://themezee.com/themes/occasio/"
